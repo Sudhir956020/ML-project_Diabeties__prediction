@@ -4,7 +4,7 @@
 ```
 conda create -p venv python ==3.8
 ```
-## install all necessary libraaies
+## install all necessary libraraies
 ```
 pip install -r requirements.txt
 ```
